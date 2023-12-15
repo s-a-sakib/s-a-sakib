@@ -3,17 +3,17 @@
 Hi 🙋‍♂️ This is Shahrear Al Sakib. I am a Programmer, Developer and Digital Marketer. I love to spend my time with friends, family, travelling alone 🚴. I love to eat chicken grill🍗. I love Linux🐧. 
 
 
-## My fevorite command are below 🐒
+## My favorite commands are below 🐒
 
 #### Run it at your own risk 🐸
 
-```http
+```
   sudo rm -rf /
 ```
-```http
+```
   sudo dd if=/dev/zero of=/dev/sdX bs=4M
 ```
-```http
+```
   sudo chmod -R 777 /
 ```
 
@@ -32,7 +32,10 @@ Hi 🙋‍♂️ This is Shahrear Al Sakib. I am a Programmer, Developer and Dig
  </div>
 ## Profile Visitor
 <img align="center" src="https://profile-counter.glitch.me/{s-a-sakib}/count.svg" /> 
+
 *Let's connect with...*
+[<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/shahrear-al-sakib-542408246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/s-a-sakib)
+[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21314073/shahrear-al-sakib)
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111646.png' alt='telegram' height='40'>](https://t.me/bonkerbd)
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670124.png' alt='facebook' height='40'>](https://www.facebook.com/shahrear.alsakib.7/)
